@@ -3,13 +3,14 @@ body {
 }
 
 .card{
-  height: 444px;
-  width: 612px;
+  height: 400px;
+  width: 250px;
   float: left;
   margin-left: 10%;
   margin-bottom: 10px;
   box-shadow: 5px 5px;
-
+  background-repeat: no-repeat;
+  background-size:100%;
 }
 
 button {
