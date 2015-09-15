@@ -1,0 +1,35 @@
+body {
+  background: #2c3e50;
+}
+
+.card{
+  height: 444px;
+  width: 612px;
+  float: left;
+  margin-left: 10%;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px;
+
+}
+
+button {
+  padding: 10px;
+  font-family: arial;
+  font-size: 2em;
+  background: #16a085;
+  font-weight: 800;
+  border: none;
+  outline: none;
+  margin: 20px auto;
+  display: block;
+  border-radius: 10px
+}
+
+button:hover {
+  padding: 15px;
+  border: 2px lightblue solid
+}
+
+
+
+
